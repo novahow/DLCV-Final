@@ -1,0 +1,1 @@
+python3 ./p3/evalus.py --offset=$1 --td=$2 --save_dir=$3
